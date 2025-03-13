@@ -1,2 +1,2 @@
 # project-demo
-Project managed by Siddhartha Vishwakarma
+Project managed by Siddhartha 
